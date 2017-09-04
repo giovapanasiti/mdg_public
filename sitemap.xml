@@ -3,30 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://mdg.surge.sh/categories/</loc>
+    <loc>http://montedelgallo.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mdg.surge.sh/contact/</loc>
+    <loc>http://montedelgallo.com/contact/</loc>
   </url>
   
   <url>
-    <loc>http://mdg.surge.sh/faq/</loc>
+    <loc>http://montedelgallo.com/faq/</loc>
   </url>
   
   <url>
-    <loc>http://mdg.surge.sh/</loc>
+    <loc>http://montedelgallo.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mdg.surge.sh/tags/</loc>
+    <loc>http://montedelgallo.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mdg.surge.sh/web-design/</loc>
+    <loc>http://montedelgallo.com/web-design/</loc>
   </url>
   
 </urlset>
