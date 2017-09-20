@@ -10355,3 +10355,26 @@ body, html, #all {
 #copyright {
   background: #ffeead;
   color: #333; }
+
+#heading-breadcrumbs {
+  background: #88d8b0; }
+
+.yellow-mask {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #ffeead;
+  opacity: 0.4;
+  filter: alpha(opacity=90); }
+
+.turchese-mask {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #96ceb4;
+  opacity: 0.4;
+  filter: alpha(opacity=90); }
