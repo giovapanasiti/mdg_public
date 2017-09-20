@@ -24,26 +24,18 @@
   <link href="https://fonts.googleapis.com/css?family=Amaranth|Titillium+Web" rel="stylesheet">
 
   
-  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  
   
 
-  <link href="http://montedelgallo.com/css/bootstrap.min.css" rel="stylesheet">
-
-
   
-  <link href="http://montedelgallo.com/css/animate.css" rel="stylesheet">
+  <link href="http://montedelgallo.com/css/font-awesome.min.css" rel="stylesheet">
 
-
-
-  <link href="http://montedelgallo.com/css/jquery.bxslider.min.css" rel="stylesheet">
 
   
   
-    <link href="http://montedelgallo.com/css/style.default.css" rel="stylesheet" id="theme-stylesheet">
-  
-
 
   
+
   <link href="http://montedelgallo.com/css/custom.css" rel="stylesheet">
 
   
@@ -59,8 +51,7 @@
   <link rel="apple-touch-icon" href="http://montedelgallo.com/img/apple-touch-icon.png" />
   
 
-  <link href="http://montedelgallo.com/css/owl.carousel.css" rel="stylesheet">
-  <link href="http://montedelgallo.com/css/owl.theme.css" rel="stylesheet">
+  
 
   <link rel="alternate" href="http://montedelgallo.com/index.xml" type="application/rss+xml" title="Monte del Gallo || Web development agency">
 
@@ -75,7 +66,7 @@
 
   <body>
 
-    <div class="corner-ribbon top-right sticky orange hidden-xs hidden-sm" data-toggle="modal" data-target="#myModal">
+    <div class="corner-ribbon top-right sticky orange hidden-xs hidden-sm shadow" data-toggle="modal" data-target="#myModal">
       <a >Ask a quote</a>
     </div>
 
@@ -153,43 +144,17 @@
         </header>
         
 
+<section class="hero ">
 
-<section >
-    <div class="home-carousel">
-        <div class="dark-mask"></div>
-        <div class="container">
-            <div class="homepage owl-carousel">
-                
-                <div class="item">
-                    <div class="row">
-                        <div class="col-sm-5 right">
-                            <h1>Fast & Reliable</h1>
-                            <p><strong>Wasting Time is Wasting Money</strong></p>. <p>If you are here chances are you hate wasting time as much as we do.</p>
-                        </div>
-                        <div class="col-sm-7">
-                            <img class="img-responsive" src="img/carousel/fast-reliable.png" alt="">
-                        </div>
-                    </div>
-                </div>
-                
-                <div class="item">
-                    <div class="row">
-                        <div class="col-sm-5 right">
-                            <h1>Quality people,<br/>high quality work</h1>
-                            <p>Our team is made only by high skilled people who work in the field from years.</p>
-                        </div>
-                        <div class="col-sm-7">
-                            <img class="img-responsive" src="img/carousel/high-quality-2.png" alt="">
-                        </div>
-                    </div>
-                </div>
-                
-            </div>
-            
-        </div>
+  <div class="hero-image">
+    <div class="dark-mask"></div>
+    <div class="hero-text">
+      <h1>Fast & Reliable</h1>
+      <h3>Wasting Time is Wasting Money. <br> Our clients hate wasting time as much as we do.</h3>
+      <button class="btn btn-hire" data-toggle="modal" data-target="#myModal">Hire us</button>
     </div>
+  </div>
 </section>
-
 
 
 
@@ -197,7 +162,7 @@
         
 
 
-<section class="bar background-white">
+<section class="bar background-gialloPaglia">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
@@ -274,30 +239,6 @@
     </div>
 
     <div class="container">
-      <div class="row">
-        <div class="col-md-8 col-md-offset-2">
-          <div class="box-team text-justify">
-            <h4>Italian design, international quality</h4>
-
-<p>MdG brings to Italy the state of the art of visual identity and digital communication.
-Because this is what we are.
-In the past years, each and every of us developed their skills working in the <strong>United Kingdom, United States,
-Switzerland</strong>. We worked with start ups and tech giants,
-with multinational strategy consultancies and with golden partners of the most advanced technological standards.</p>
-<br>
-<p>MdG brings to the world the excellence of Italian design, the artisan crafting and the beauty of things well done.
-<strong>Because this is what we are</strong>.
-Born and raised together in Italy, surrounded by immortal beauty and educated to the ethics of handcrafting.
-Our background includes cultural project management, together with public and political communication and storytelling.</p>
-<br>
-<p>We founded MdG in 2017 to combine our experience and multiply our energy, all for our customers.
-We will build your digital identity and your innovation project together, with our Italian heart, and our global mind.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="container">
         
 		
 				<div class="col-md-3">
@@ -318,10 +259,20 @@ We will build your digital identity and your innovation project together, with o
                             <a href="https://www.linkedin.com/in/giovapanasiti/" class="socail-icon-link">
                               <i class="fa fa-linkedin-square social-icon linkedin" aria-hidden="true"></i>
                             </a>
+                            
+                            <a href="https://github.com/giovapanasiti" class="socail-icon-link">
+                              <i class="fa fa-github-square social-icon github" aria-hidden="true"></i>
+                            </a>
+                            
                           </div>
                           <hr>
                           <span class="text-center">
-                            <button data-toggle="collapse" data-target="#demo0" class="btn">Read More</button>
+                            <button data-toggle="collapse"
+                                    id="0"
+                                    data-target="#demo0"
+                                    class="btn btn-read collapseBtn"
+                                    data-parent="#teamGroup">Read More</button>
+
                           </span>
 <br>
 <br>
@@ -354,10 +305,20 @@ We will build your digital identity and your innovation project together, with o
                             <a href="https://www.linkedin.com/in/ncanaliderossi/" class="socail-icon-link">
                               <i class="fa fa-linkedin-square social-icon linkedin" aria-hidden="true"></i>
                             </a>
+                            
+                            <a href="https://github.com/nicocanali" class="socail-icon-link">
+                              <i class="fa fa-github-square social-icon github" aria-hidden="true"></i>
+                            </a>
+                            
                           </div>
                           <hr>
                           <span class="text-center">
-                            <button data-toggle="collapse" data-target="#demo1" class="btn">Read More</button>
+                            <button data-toggle="collapse"
+                                    id="1"
+                                    data-target="#demo1"
+                                    class="btn btn-read collapseBtn"
+                                    data-parent="#teamGroup">Read More</button>
+
                           </span>
 <br>
 <br>
@@ -390,10 +351,16 @@ We will build your digital identity and your innovation project together, with o
                             <a href="https://www.linkedin.com/in/niccolocirone/" class="socail-icon-link">
                               <i class="fa fa-linkedin-square social-icon linkedin" aria-hidden="true"></i>
                             </a>
+                            
                           </div>
                           <hr>
                           <span class="text-center">
-                            <button data-toggle="collapse" data-target="#demo2" class="btn">Read More</button>
+                            <button data-toggle="collapse"
+                                    id="2"
+                                    data-target="#demo2"
+                                    class="btn btn-read collapseBtn"
+                                    data-parent="#teamGroup">Read More</button>
+
                           </span>
 <br>
 <br>
@@ -426,10 +393,16 @@ We will build your digital identity and your innovation project together, with o
                             <a href="https://www.linkedin.com/in/davidemaccagno/" class="socail-icon-link">
                               <i class="fa fa-linkedin-square social-icon linkedin" aria-hidden="true"></i>
                             </a>
+                            
                           </div>
                           <hr>
                           <span class="text-center">
-                            <button data-toggle="collapse" data-target="#demo3" class="btn">Read More</button>
+                            <button data-toggle="collapse"
+                                    id="3"
+                                    data-target="#demo3"
+                                    class="btn btn-read collapseBtn"
+                                    data-parent="#teamGroup">Read More</button>
+
                           </span>
 <br>
 <br>
@@ -469,6 +442,49 @@ We will build your digital identity and your innovation project together, with o
         </div>
     </div>
 </section>
+
+
+
+
+        
+
+<section class="bar background-pentagon">
+
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="heading text-center">
+              <h2>About us</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+          <div class="box-team text-justify">
+            <h4>Italian design, international quality</h4>
+
+    <p>MdG brings to Italy the state of the art of visual identity and digital communication.
+    Because this is what we are.
+    In the past years, each and every of us developed their skills working in the <strong>United Kingdom, United States,
+    Switzerland</strong>. We worked with start ups and tech giants,
+    with multinational strategy consultancies and with golden partners of the most advanced technological standards.</p>
+    <br>
+    <p>MdG brings to the world the excellence of Italian design, the artisan crafting and the beauty of things well done.
+    <strong>Because this is what we are</strong>.
+    Born and raised together in Italy, surrounded by immortal beauty and educated to the ethics of handcrafting.
+    Our background includes cultural project management, together with public and political communication and storytelling.</p>
+    <br>
+    <p>We founded MdG in 2017 to combine our experience and multiply our energy, all for our customers.
+    We will build your digital identity and your innovation project together, with our Italian heart, and our global mind.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+</section>
+
 
 
 
@@ -531,8 +547,121 @@ We will build your digital identity and your innovation project together, with o
 </section>
 
 
-
         
+
+
+<section class="bar background-pentagon no-mb">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="heading text-center">
+                    <h2>Testimonials</h2>
+                </div>
+
+                <p class="lead">
+                  We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us.
+                </p>
+
+                
+
+                <ul class="owl-carousel testimonials same-height-row">
+                    
+                    <li class="item">
+                        <div class="testimonial same-height-always">
+                            <div class="text">
+                                <p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.</p>
+                            </div>
+                            <div class="bottom">
+                                <div class="icon"><i class="fa fa-quote-left"></i>
+                                </div>
+                                <div class="name-picture">
+                                    <img class="" alt="" src="http://montedelgallo.com/img/testimonials/person-1.jpg">
+                                    <h5>John McIntyre</h5>
+                                    <p>CEO, TransTech</p>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    
+                    <li class="item">
+                        <div class="testimonial same-height-always">
+                            <div class="text">
+                                <p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.</p>
+                            </div>
+                            <div class="bottom">
+                                <div class="icon"><i class="fa fa-quote-left"></i>
+                                </div>
+                                <div class="name-picture">
+                                    <img class="" alt="" src="http://montedelgallo.com/img/testimonials/person-2.jpg">
+                                    <h5>John McIntyre</h5>
+                                    <p>CEO, TransTech</p>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    
+                    <li class="item">
+                        <div class="testimonial same-height-always">
+                            <div class="text">
+                                <p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.</p>
+                            </div>
+                            <div class="bottom">
+                                <div class="icon"><i class="fa fa-quote-left"></i>
+                                </div>
+                                <div class="name-picture">
+                                    <img class="" alt="" src="http://montedelgallo.com/img/testimonials/person-3.png">
+                                    <h5>John McIntyre</h5>
+                                    <p>CEO, TransTech</p>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    
+                    <li class="item">
+                        <div class="testimonial same-height-always">
+                            <div class="text">
+                                <p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.</p>
+                            </div>
+                            <div class="bottom">
+                                <div class="icon"><i class="fa fa-quote-left"></i>
+                                </div>
+                                <div class="name-picture">
+                                    <img class="" alt="" src="http://montedelgallo.com/img/testimonials/person-4.jpg">
+                                    <h5>John McIntyre</h5>
+                                    <p>CEO, TransTech</p>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    
+                    <li class="item">
+                        <div class="testimonial same-height-always">
+                            <div class="text">
+                                <p>One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.</p>
+                            </div>
+                            <div class="bottom">
+                                <div class="icon"><i class="fa fa-quote-left"></i>
+                                </div>
+                                <div class="name-picture">
+                                    <img class="" alt="" src="http://montedelgallo.com/img/testimonials/person-1.jpg">
+                                    <h5>John McIntyre</h5>
+                                    <p>CEO, TransTech</p>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    
+                </ul>
+                
+
+                
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
 
 
 
@@ -697,25 +826,8 @@ We will build your digital identity and your innovation project together, with o
         </div>
 
     
-<script src="//code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
-<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0/jquery.counterup.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-parallax/1.1.3/jquery-parallax.js"></script>
-
-<script src="//maps.googleapis.com/maps/api/js?key=AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y&v=3.exp"></script>
-
-<script src="http://montedelgallo.com/js/hpneo.gmaps.js"></script>
-<script src="http://montedelgallo.com/js/gmaps.init.js"></script>
-<script src="http://montedelgallo.com/js/front.js"></script>
-<script src="http://montedelgallo.com/js/jquery.bxSlider.js"></script>
-<script src="http://montedelgallo.com/js/custom.js"></script>
-
-
-
-<script src="http://montedelgallo.com/js/owl.carousel.min.js"></script>
+<script src="http://montedelgallo.com/js/scripts_temp.js"></script>
 
 
   </body>

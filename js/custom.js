@@ -15,4 +15,13 @@ $(window).ready(function(){
    items : 6,
    infiniteLoop:true //**Change this property
   });
+
+
+  // automatically close all teh other opened contents
+  $('.collapseBtn').click(function(e) {
+      const all = document.querySelectorAll('.in')
+      all.forEach(function(el) {
+        $(el).collapse('toggle')
+      })
+  })
 });
