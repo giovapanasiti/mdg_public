@@ -6,11 +6,20 @@
     <description>Recent content on Monte del Gallo || Web development agency</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2017 - 2018, ©MonteDelGallo; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 17 Sep 2015 13:47:08 +0200</lastBuildDate>
+    <copyright>Copyright (c) 2017 - 2018 ©MonteDelGallo</copyright>
+    <lastBuildDate>Thu, 09 Nov 2017 21:47:08 +0200</lastBuildDate>
     
 	<atom:link href="http://montedelgallo.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why We Exist</title>
+      <link>http://montedelgallo.com/blog/2017/11/09/why-we-exist/</link>
+      <pubDate>Thu, 09 Nov 2017 21:47:08 +0200</pubDate>
+      
+      <guid>http://montedelgallo.com/blog/2017/11/09/why-we-exist/</guid>
+      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.</description>
+    </item>
     
     <item>
       <title>Go is for lovers</title>

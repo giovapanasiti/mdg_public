@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Monte del Gallo || Web development agency</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2017 - 2018, ©MonteDelGallo; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2017 - 2018 ©MonteDelGallo</copyright>
     
 	<atom:link href="http://montedelgallo.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>News</title>
+      <link>http://montedelgallo.com/categories/news/</link>
+      <pubDate>Thu, 09 Nov 2017 21:47:08 +0200</pubDate>
+      
+      <guid>http://montedelgallo.com/categories/news/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Programming</title>
