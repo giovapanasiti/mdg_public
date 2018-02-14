@@ -2,30 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Monte del Gallo || Web development agency</title>
-    <link>http://montedelgallo.com/categories/</link>
+    <link>https://montedelgallo.com/categories/</link>
     <description>Recent content in Categories on Monte del Gallo || Web development agency</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018 ©MonteDelGallo</copyright>
     
-	<atom:link href="http://montedelgallo.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://montedelgallo.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Go</title>
+      <link>https://montedelgallo.com/categories/go/</link>
+      <pubDate>Wed, 20 Dec 2017 13:47:08 +0200</pubDate>
+      
+      <guid>https://montedelgallo.com/categories/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>News</title>
-      <link>http://montedelgallo.com/categories/news/</link>
+      <link>https://montedelgallo.com/categories/news/</link>
       <pubDate>Thu, 09 Nov 2017 21:47:08 +0200</pubDate>
       
-      <guid>http://montedelgallo.com/categories/news/</guid>
+      <guid>https://montedelgallo.com/categories/news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Programming</title>
-      <link>http://montedelgallo.com/categories/programming/</link>
-      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      <link>https://montedelgallo.com/categories/programming/</link>
+      <pubDate>Wed, 20 Dec 2017 13:47:08 +0200</pubDate>
       
-      <guid>http://montedelgallo.com/categories/programming/</guid>
+      <guid>https://montedelgallo.com/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruby On Rails</title>
+      <link>https://montedelgallo.com/categories/ruby-on-rails/</link>
+      <pubDate>Fri, 24 Nov 2017 14:00:00 +0100</pubDate>
+      
+      <guid>https://montedelgallo.com/categories/ruby-on-rails/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Applications</title>
+      <link>https://montedelgallo.com/categories/web-applications/</link>
+      <pubDate>Wed, 20 Dec 2017 13:47:08 +0200</pubDate>
+      
+      <guid>https://montedelgallo.com/categories/web-applications/</guid>
       <description></description>
     </item>
     

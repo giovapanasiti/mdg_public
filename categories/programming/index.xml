@@ -2,22 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming on Monte del Gallo || Web development agency</title>
-    <link>http://montedelgallo.com/categories/programming/</link>
+    <link>https://montedelgallo.com/categories/programming/</link>
     <description>Recent content in Programming on Monte del Gallo || Web development agency</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018 ©MonteDelGallo</copyright>
-    <lastBuildDate>Thu, 17 Sep 2015 13:47:08 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 20 Dec 2017 13:47:08 +0200</lastBuildDate>
     
-	<atom:link href="http://montedelgallo.com/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://montedelgallo.com/categories/programming/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Beego - a Golang Framework to Build Web Applications</title>
+      <link>https://montedelgallo.com/blog/2017/12/20/beego-go-web-applications-framework/</link>
+      <pubDate>Wed, 20 Dec 2017 13:47:08 +0200</pubDate>
+      
+      <guid>https://montedelgallo.com/blog/2017/12/20/beego-go-web-applications-framework/</guid>
+      <description>Go is a blazing fast programming language and we, here at MonteDelGallo, love it. So I want to share with you this &amp;ldquo;new&amp;rdquo; framework for building web applications with Go. Its name is Beego
+Introduction to Beego If you are a web developer you are probably very familiar with frameworks either you use PHP, Ruby, Python, or Node. But what if you, like me, felt in love with Go and want to use it to develop your next web application?</description>
+    </item>
+    
+    <item>
+      <title>Filters Results in Ruby on Rails Views</title>
+      <link>https://montedelgallo.com/blog/2017/11/24/how-to-filters-results-in-ruby-on-rails/</link>
+      <pubDate>Fri, 24 Nov 2017 14:00:00 +0100</pubDate>
+      
+      <guid>https://montedelgallo.com/blog/2017/11/24/how-to-filters-results-in-ruby-on-rails/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Go is for lovers</title>
-      <link>http://montedelgallo.com/blog/2015/09/17/go-lover/</link>
+      <link>https://montedelgallo.com/blog/2015/09/17/go-lover/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
-      <guid>http://montedelgallo.com/blog/2015/09/17/go-lover/</guid>
+      <guid>https://montedelgallo.com/blog/2015/09/17/go-lover/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates.</description>
     </item>
