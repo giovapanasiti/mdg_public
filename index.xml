@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Monte del Gallo || Software and Web Development Firm</title>
-    <link>http://localhost:1313/</link>
+    <link>https://montedelgallo.com/</link>
     <description>Recent content on Monte del Gallo || Software and Web Development Firm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018 ©MonteDelGallo</copyright>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://montedelgallo.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Careers at MonteDelGallo</title>
-      <link>http://localhost:1313/careers/</link>
+      <link>https://montedelgallo.com/careers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/careers/</guid>
+      <guid>https://montedelgallo.com/careers/</guid>
       <description>Current Openings                       Sorry, we aren&#39;t currently hiring You can still send us your details for when we are!
 hello@montedelgallo.com</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://montedelgallo.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>https://montedelgallo.com/contact/</guid>
       <description>We are one step away from each other Do you have a great idea, but you are not quite sure it&amp;rsquo;s doable? Would you like to explore a possible opportunity with us? Or just give us a feedback on something?
 Leave us a message, and we will get back to you as soon as we can.</description>
     </item>
     
     <item>
       <title>Our Works</title>
-      <link>http://localhost:1313/portfolio/</link>
+      <link>https://montedelgallo.com/portfolio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/portfolio/</guid>
+      <guid>https://montedelgallo.com/portfolio/</guid>
       <description></description>
     </item>
     
