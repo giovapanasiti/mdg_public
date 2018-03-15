@@ -2,110 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Monte del Gallo || Software and Web Development Firm</title>
-    <link>https://montedelgallo.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Monte del Gallo || Software and Web Development Firm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018 ©MonteDelGallo</copyright>
-    <lastBuildDate>Wed, 20 Dec 2017 13:47:08 +0200</lastBuildDate>
     
-	<atom:link href="https://montedelgallo.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Beego - a Golang Framework to Build Web Applications</title>
-      <link>https://montedelgallo.com/blog/2017/12/20/beego-go-web-applications-framework/</link>
-      <pubDate>Wed, 20 Dec 2017 13:47:08 +0200</pubDate>
-      
-      <guid>https://montedelgallo.com/blog/2017/12/20/beego-go-web-applications-framework/</guid>
-      <description>Go is a blazing fast programming language and we, here at MonteDelGallo, love it. So I want to share with you this &amp;ldquo;new&amp;rdquo; framework for building web applications with Go. Its name is Beego
-Introduction to Beego If you are a web developer you are probably very familiar with frameworks either you use PHP, Ruby, Python, or Node. But what if you, like me, felt in love with Go and want to use it to develop your next web application?</description>
-    </item>
-    
-    <item>
-      <title>Filters Results in Ruby on Rails Views</title>
-      <link>https://montedelgallo.com/blog/2017/11/24/how-to-filters-results-in-ruby-on-rails/</link>
-      <pubDate>Fri, 24 Nov 2017 14:00:00 +0100</pubDate>
-      
-      <guid>https://montedelgallo.com/blog/2017/11/24/how-to-filters-results-in-ruby-on-rails/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Why We Exist</title>
-      <link>https://montedelgallo.com/blog/2017/11/09/why-we-exist/</link>
-      <pubDate>Thu, 09 Nov 2017 21:47:08 +0200</pubDate>
-      
-      <guid>https://montedelgallo.com/blog/2017/11/09/why-we-exist/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.</description>
-    </item>
-    
-    <item>
-      <title>Go is for lovers</title>
-      <link>https://montedelgallo.com/blog/2015/09/17/go-lover/</link>
-      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
-      
-      <guid>https://montedelgallo.com/blog/2015/09/17/go-lover/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
-    </item>
     
     <item>
       <title>Careers at MonteDelGallo</title>
-      <link>https://montedelgallo.com/careers/</link>
+      <link>http://localhost:1313/careers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://montedelgallo.com/careers/</guid>
+      <guid>http://localhost:1313/careers/</guid>
       <description>Current Openings                       Sorry, we aren&#39;t currently hiring You can still send us your details for when we are!
 hello@montedelgallo.com</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://montedelgallo.com/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://montedelgallo.com/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>We are one step away from each other Do you have a great idea, but you are not quite sure it&amp;rsquo;s doable? Would you like to explore a possible opportunity with us? Or just give us a feedback on something?
 Leave us a message, and we will get back to you as soon as we can.</description>
     </item>
     
     <item>
-      <title>FAQ</title>
-      <link>https://montedelgallo.com/faq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://montedelgallo.com/faq/</guid>
-      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER? Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.</description>
-    </item>
-    
-    <item>
       <title>Our Works</title>
-      <link>https://montedelgallo.com/portfolio/</link>
+      <link>http://localhost:1313/portfolio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://montedelgallo.com/portfolio/</guid>
+      <guid>http://localhost:1313/portfolio/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Strategy Before Technology</title>
-      <link>https://montedelgallo.com/how-we-work/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://montedelgallo.com/how-we-work/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Web Design</title>
-      <link>https://montedelgallo.com/web-design/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://montedelgallo.com/web-design/</guid>
-      <description>We are here to help yousadsda Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
-Please feel free to contact us, our customer service center is working for you 24&amp;frasl;7.</description>
     </item>
     
   </channel>
